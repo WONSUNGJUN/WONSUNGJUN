@@ -4,6 +4,12 @@
   
 ![WONSUNGJUN's github stats](https://github-readme-stats.vercel.app/api?username=WONSUNGJUN&show_icons=true)
 
+## 👋🏻 Introduce
+- Hello, My Name Is WONSUNGJUN.
+- I Love Blockchain Technology and Hope to be a Front-end developer.
+- I like to talk about Web3.0(Defi, NFT, DAO) Recently, I am interested in tokenonomics.
+- 🐢...
+
 ## 🔭 Languages & Frameworks
 
 ![HTML](https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white)
