@@ -2,16 +2,17 @@
 
 ### *"Great tech attracts great people.”*
   
-![WONSUNGJUN's github stats](https://github-readme-stats.vercel.app/api?username=WONSUNGJUN&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WONSUNGJUN&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ## 👋🏻 Introduce
 - Hello, My Name Is WONSUNGJUN.
 - I Love Blockchain Technology and Hope to be a Front-end developer.
 - I like to talk about Web3.0(Defi, NFT, DAO) Recently, I am interested in tokenonomics.
 - 🐢...
 
-## 🔭 Skills
+## 📊 GitHub stats
+![WONSUNGJUN's github stats](https://github-readme-stats.vercel.app/api?username=WONSUNGJUN&show_icons=true) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WONSUNGJUN&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+| ----------- | ------------ |
+
+## 🔭 Tech Stack
 
 ![HTML](https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white)
